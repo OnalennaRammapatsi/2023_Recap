@@ -5,7 +5,7 @@ Welcome to the 2023 Recap repository! This project aims to upskill my existing s
 
 ## Usage
 1. Run the application: node app.js
-2. Open a web browser and go to http://localhost:3000
+2. Open a web browser.
    
 ## Installation
 1. Clone the repository: 
